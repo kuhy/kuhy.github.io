@@ -1,0 +1,22 @@
+@font-face {
+   font-family: Monoid;
+   src: url('Monoid-Regular.ttf');
+}
+
+* {
+  font-family: Monoid;
+}
+
+p {
+  font-size: 40px;
+}
+
+h1 {
+  font-size: 80px;
+  color: white;
+  background-color: black;
+}
+
+#container {
+  padding: 100px 100px;
+}
